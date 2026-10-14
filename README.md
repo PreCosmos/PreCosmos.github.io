@@ -14,4 +14,4 @@ Create the GitHub repository `PreCosmos/PreCosmos.github.io`, push these files t
 
 Page text and reading links are in `index.html`; design and responsive layouts are in `style.css`. PDFs live in `assets/books/`. The author name and collection contents were verified against the source books. Browser validation passed at 390, 768, and 1440px. All three editions rendered with selectable text; next/previous, page entry, zoom, and downloads passed without JavaScript errors. Screenshots are saved alongside the project in `/workspace/site-review/`.
 
-The author section currently uses a typographic illustration; the photos supplied in chat were not exposed as downloadable files in the execution workspace. Replace that illustration with a supplied portrait when the original image file is available.
+The About Me section uses the author-supplied outdoor portrait in `assets/author.jpg`. Its responsive crop is controlled by `.author-photo` in `style.css`.
